@@ -34,7 +34,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Student", "Developer", "Enginner", "Designer", "Fullstack Developer"],
+        strings: ["Student", "Developer", "Engineer", "Designer", "Fullstack Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -69,4 +69,5 @@ $(document).ready(function(){
             }
         }
     });
+
 });
